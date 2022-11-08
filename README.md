@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @samiulislamlive
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in ... Mobile Application Development and Web Development
+- 🌱 I’m currently learning ... Flutter Responsive UI
+- 💞️ I’m looking to collaborate on ... Any type of project
 - 📫 How to reach me ... mail- samiulislam31live@gmail.com
 
 <!---
